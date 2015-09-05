@@ -1,2 +1,2 @@
 # newGitTest
-Test repository
+My Test repository 1
